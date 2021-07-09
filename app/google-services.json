@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223980049030",
+    "project_id": "counternumber-af62b",
+    "storage_bucket": "counternumber-af62b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223980049030:android:907704ae34d73df3697707",
+        "android_client_info": {
+          "package_name": "com.zikriganteng.counternumber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223980049030-q7m1r1rdfdg26redomj2gfflc7puvabl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSDKc9lGv1Ca0NOxUeymYcwqmck9WsTAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223980049030-q7m1r1rdfdg26redomj2gfflc7puvabl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
